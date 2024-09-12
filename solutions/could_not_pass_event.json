@@ -6,7 +6,7 @@
   "arguments": {
     "0": "Could not pass event \\s*(\\S+)",
     "1": "to ([^\r\n]*?)(?=java|\r|\n)",
-    "2": "([a-zA-Z0-9_.]+Exception: [^)\r\n]*(?:\)?)?)"
+    "2": "([a-zA-Z0-9_.]+Exception: [^)\\r\\n]*(?:\\)?)?)"
   },
   "solution": "Could not pass event %0 to plugin %1. Try contacting the developer of the plugin about this to try and get it solved, if you are the developer here is the cause: \"%2\""
 }
