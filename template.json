@@ -1,0 +1,10 @@
+{
+  "error": "Template",
+  "matches": [
+    "Could not pass event"
+  ],
+  "arguments": {
+    "0": "Could not pass event (test)"
+  },
+  "solution": "Template error %0"
+}
