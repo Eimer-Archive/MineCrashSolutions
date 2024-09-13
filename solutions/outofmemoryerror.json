@@ -1,0 +1,7 @@
+{
+  "error": "OutOfMemoryError",
+  "matches": [
+    "java.lang.OutOfMemoryError"
+  ],
+  "solution": "The server is unable to access more resources. The server/VPS/computer may be running out of resources or the server maybe be misconfigured. If you are using a host possibly contact them about this."
+}

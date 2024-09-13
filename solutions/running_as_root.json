@@ -1,0 +1,8 @@
+{
+  "error": "Server is running as root (Warning)",
+  "matches": [
+    "YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER"
+  ],
+  "solution": "This server is currently being run as the root user. This can open your Server/VPS/Computer up to possibly security vulnerabilities. For more information read https://madelinemiller.dev/blog/root-minecraft-server/."
+}
+

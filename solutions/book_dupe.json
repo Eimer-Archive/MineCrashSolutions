@@ -1,0 +1,11 @@
+{
+  "error": "Book content overflow (Often book dupe)",
+  "matches": [
+    "String too big",
+    "Error encoding component minecraft:written_book_content"
+  ],
+  "arguments": {
+    "0": "Failed to save player data for (\\S+)"
+  },
+  "solution": "The player \"%0\" is most likely trying to use books to dupe. Please update to the latest Minecraft version and/or build of your server software (Purpur, Paper, etc) so that this is patched."
+}

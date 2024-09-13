@@ -1,0 +1,12 @@
+{
+  "error": "Could not find requires class (Missing dependency or mismatched version)",
+  "matches": [
+    "java.lang.NoClassDefFoundError",
+    "java.lang.ClassNotFoundException"
+  ],
+  "arguments": {
+    "0": "Error occurred while enabling (\\S+)",
+    "1": "NoClassDefFoundError: (\\S+)"
+  },
+  "solution": "A plugin (Plugin: %0 - Class: %1) was unable to access code it requires because it is missing. Make sure the plugin you are using supports the Minecraft version/software you are using and that it has any dependencies it requires installed. Some plugins have a \"Legacy\" version for old verisons of Minecraft, if you are running a modern version make sure it is not a Legacy version of the plugin."
+}

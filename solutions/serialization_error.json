@@ -1,0 +1,7 @@
+{
+  "error": "Serialization Error",
+  "matches": [
+    "SerializationException"
+  ],
+  "solution": "Unable to serialize some information. This is common if you attempted to downloadgrade to an earlier version. Make sure the server is updated to the latest version and all plugins/mods are updated."
+}
