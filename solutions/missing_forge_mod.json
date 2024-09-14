@@ -4,6 +4,9 @@
     "net.minecraftforge.fml.common.MissingModsException"
   ],
   "arguments": {
+    "0": "Mod ([^()]+ \\([^)]*\\))",
+    "1": "requires \\[(\\S+)@",
+    "2": "@\\[([\\d.]+),"
   },
-  "solution": "You are missing a mod."
+  "solution": "You are missing a mod. The mod %0 requires %1 %2 to be installed."
 }
