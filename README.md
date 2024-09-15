@@ -26,7 +26,7 @@ A crash is an error that causes the server to stop functioning. It can be throug
 
 ### Do you accept Java errors unrelated to Minecraft?
 
-Minecraft (Java Edition) is made with the Java programming language so we kind of have to. Anyone can make plugins or mods for the game which people can end up getting errprs from.
+Minecraft (Java Edition) is made with the Java programming language so we kind of have to. Anyone can make plugins or mods for the game which people can end up getting errors from.
 
 ### How does it work?
 
