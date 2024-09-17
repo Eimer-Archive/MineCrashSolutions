@@ -4,5 +4,5 @@
     "Can't keep up! Is the server overloaded?"
   ],
   "arguments": {},
-  "solution": "Your machine can't keep up and is struggling to run the server. If you are not try using Paper or a fork of it. Else try upgrading your server hosting. If you are running a chunk generator or something else that is heavy on resources this is normal. In most cases you can ignore this."
+  "solution": "A tick on your server took an exceedingly long time to process\nFurther explanation: Minecraft updates the server (i.e the positions of players, mob AI, etc.) 20 times per second. This means that, on average, a tick (an update of the server) should take less than 50ms to complete. This message appears when a tick takes much longer than 50ms to complete.\nSolution: If your server is running fine, this warning can be safely ignored. If you are consistently seeing this warning and the server is clearly lagging, try using a profiler such as [Spark](https://spark.lucko.me/) to investigate why your server is performing poorly. If you aren't already, try running your server on [PaperMC](https://papermc.io/), which contains many optimizations that will make your server run faster."
 }
