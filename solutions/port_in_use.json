@@ -4,5 +4,5 @@
     "java.net.BindException: Address already in use"
   ],
   "arguments": {},
-  "solution": "The port the server attmempted to bind to is already in use. Is a Minecraft server already running? Try changing the `server-port=` value in the `server.properties` file.\nFor Linux users, you can see what ports are in use and by what programs by running `netstat -ltp` as root. Then, you can kill the process using the port your Minecraft server is attempting to use by running `kill -9 [PID]`.\nIf all else fails, try rebooting your computer."
+  "solution": "The port the server attempted to bind to is already in use. Is a Minecraft server already running? Try changing the `server-port=` value in the `server.properties` file.\nFor Linux users, you can see what ports are in use and by what programs by running `netstat -ltp` as root. Then, you can kill the process using the port your Minecraft server is attempting to use by running `kill -9 [PID]`.\nIf all else fails, try rebooting your computer."
 }
